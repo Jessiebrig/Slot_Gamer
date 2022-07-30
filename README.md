@@ -5,7 +5,7 @@ This is one of my app that I developed just for fun. I used this app to Autoplay
 Currently it has 2 main functions to play and I call it (Autoplay) and (Autospin)
 This app is just basically clicking the spin and stop it for you.
 1. It Clicks the Spin button 
-2. Capture and Scan captured images every 16 milliseconds on average and stop when it captured the image I was looking
+2. Capture and Scan captured images every 16 milliseconds on average and stop when it captured the image I was looking for
 3. Load the images in Listview for reference and checking whether it reacts at the right time.
 This is how I code the (AutoSpin) funtion which is specific only for 1 game which you may select from IGameModel Interface list which create the list of game you want to play.
 
