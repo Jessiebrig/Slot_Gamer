@@ -1,6 +1,7 @@
 # Slot_Gamer
 
 This is one of my app that I developed just for fun. I used this app to Autoplay Slot Games from online casino.
+It has 1 Main window for user interface and 2nd window that capture part of the sceen which can be move, resize, save and set location or size. 
 
 Currently it has 2 main functions to play and I call it (Autoplay) and (Autospin)
 This app is just basically clicking the spin and stop it for you.
