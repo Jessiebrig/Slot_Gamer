@@ -16,7 +16,7 @@ This is how I code the (AutoSpin) funtion which is specific only for 1 game whic
   
 (AutoSpin) This function capture 1 image every 16 milliseconds on average.
 Basically its just capturing an image > Scan the image and check if it contains an ARGB value that I have set > and click stop
-This app really works since it clicks at a specific time it captures the winning numbers but after finishing the app I realize something.
+This app really works since it clicks at a specific time it captures the winning numbers but after finishing the 1st class of a game I realize something.
 
 Slot Games online is like a physical slot games. You can't win if your not in luck.
 In the case of online Slot Games, the system will decide randomly whether you win or loss.
